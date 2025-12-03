@@ -1,0 +1,11 @@
+{
+	"workbench.colorCustomizations": {
+		"terminal.ansiRed": "#ff5a00",
+		"terminal.ansiBrightRed": "#ff5a00",
+		"activityBar.background": "#0066ff22",
+		"titleBar.activeBackground": "#0066ff66",
+		"titleBar.inactiveBackground": "#0066ff66",
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveForeground": "#ffffff"
+	}
+}
